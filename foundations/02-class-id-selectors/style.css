@@ -1,0 +1,20 @@
+body {
+    background-color: white;
+}
+
+.div-1 {
+    color: blue; font-size: 36px;
+}
+.div-2 {
+    background-color: lightgreen; font-size: 24px; font-style: bold;
+}
+
+#one {
+    background-color: lightpink; font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#two {
+    background-color: lightpink; font-size: 24px; font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#three {
+    background-color: lightpink;
+}
