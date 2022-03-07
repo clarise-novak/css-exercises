@@ -1,8 +1,9 @@
 div
-    img #avatarproportioned {
+    img #avatarproportioned #originalproportioned {
         height: auto;
         width: 300px;
     }
     
+    img #avatardistorted #originaldistorted
 
     
