@@ -1,34 +1,38 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
 .para,
 .small-para {
   color: hsl(0, 100%, 50%);
+  font-weight: bold;
 }
 
 .small-para {
   font-size: 14px;
+  font-weight: bold;
 }
 
-.para {
-  font-size: 22px;
-}
-
-.confirm {
-  background: green;
+.confirm.button {
+  background-color: green;
   color: white;
   font-weight: bold;
+  border-color: lightgrey
 } 
 
 .button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-size: 20px;
+  border-color: lightgrey
 }
 
-.child {
-  color: red;
-  font-size: 14px;
-}
-
-div.text {
+.text {
   color: green;
   font-size: 22px;
+}
+
+.text.child {
+  color: red;
+  font-size: 14px;
 }
