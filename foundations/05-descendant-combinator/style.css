@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.container.one {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+.container.two {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
