@@ -37,13 +37,13 @@ body {
   margin: 8px;
   border-bottom: white;
   border-top: white;
-  padding-top: 8px;
+  padding-top: 5px;
   padding-bottom: 10px;
-  text-align: center;
-  border-top: 8px;
-  padding: 26px;
-  vertical-align: top;
+  text-indent: 45%;
+  text-align: baseline;
+  padding: 35px;
   position: relative;
+  top: 10%;
 }
 
 button {
@@ -55,7 +55,7 @@ button {
   padding-right: 24px;
   border: 1px solid #eee;
   position: absolute;
-  top: 80%;
+  bottom: 2%;
   left: 50%;
   transform: translate(-50%, -30%);
 }
